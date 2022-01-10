@@ -1,0 +1,15 @@
+{
+  "short_name": "CREATURETOADZ",
+  "name": "CREATURETOADZz",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#9DB8A7",
+  "background_color": "#ffffff"
+}
